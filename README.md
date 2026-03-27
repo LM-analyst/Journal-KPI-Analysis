@@ -13,5 +13,7 @@ The dashboard was updated on a monthly basis to provide an overview of journal p
 
 # Contents
 'KPI Dashboard Home Page.jpg' - screenshot of the Power BI report home page (sample data).
+
 'Journal Page Example.jpg' - screenshot of a journal page in the Power BI report, showing the visuals and metrics used (sample data).
+
 'Data Glossary.jpg' - screenshot of the glossary page in the Power BI report to provide transparency of how data was collected/interpreted and improve understanding.
